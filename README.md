@@ -1,13 +1,70 @@
 ![Blog Content](https://user-images.githubusercontent.com/59213454/145122346-c0967a04-9bbf-412a-b74d-59f1970a34f3.png)
 
+
 Repository Ini Berisi Tentang Isi Konten Dari Blog Pribadi Saya, Blog Saya Berisi Tentang Dunia Informasi Dan Teknologi Seperti Dunia Programming Dan Cryptocurrancy, Saya Berkontribusi Di Dunia Open Source Dengan Menulis Artikel-Artikel. Saya Membuat Blog Ini Hanya Untuk Mendokumentasikan Apa Yang Telah Saya Pelajari Agar Dapat Menjadi Sumber Belajar Khususnya Diri Saya Dan Juga Orang Lain.
 
-<h3>Belajar Bahasa Pemrograman Dasar Dart</h3>
+## Belajar Bahasa Pemrograman Dasar Dart
+* [Pengenalan Bahasa Pemrogramman Dart](https://www.kuskusdev.my.id/2021/10/pengenalan-bahasa-pemrogramman-dart.html)
+* [Belajar Menulis Komentar Dan Variabel](https://www.kuskusdev.my.id/2021/10/belajar-dart-variabel-dan-komentar.html)
+* [Belajar Jenis-Jenis Type Data](https://www.kuskusdev.my.id/2021/10/belajar-dart-jenis-jenis-type-data.html)
+* [Belajar Menulis String](https://www.kuskusdev.my.id/2021/10/belajar-dart-string-bahasa-pemrogramman.html)
+* [Belajar Operasi Aritmetika Dart](https://www.kuskusdev.my.id/2021/10/belajar-dart-aritmetika-bahasa.html)
+* [Belajar Percabangan If/Else](https://www.kuskusdev.my.id/2021/10/belajar-dart-percabangan-bahasa.html)
+* [Belajar Numbers](https://www.kuskusdev.my.id/2021/10/belajar-dart-numbers-bahasa.html)
+* [Belajar Operator Perbandingan](https://www.kuskusdev.my.id/2021/10/belajar-dart-operator-perbandingan.html)
+* [Belajar Boolean](https://www.kuskusdev.my.id/2021/10/belajar-dart-boolean-bahasa.html)
+* [Belajar For Looping](https://www.kuskusdev.my.id/2021/10/belajar-dart-boolean-bahasa.html)
+* [Belajar While Looping](https://www.kuskusdev.my.id/2021/10/belajar-pemrogramman-dart-while-looping.html) 
+* [Belajar Do While Looping](https://www.kuskusdev.my.id/2021/10/belajar-dart-do-while-looping-bahasa.html)
+* [Belajar List](https://www.kuskusdev.my.id/2021/10/belajar-dart-list-bahasa-pemrograman.html)
+* [Belajar Map](https://www.kuskusdev.my.id/2021/10/belajar-dart-map-bahasa-pemrograman-dart.html)
+* [Belajar Switch Case](https://www.kuskusdev.my.id/2021/10/belajar-dart-switch-case-bahasa.html)
+* [Belajar Function](https://www.kuskusdev.my.id/2021/10/belajar-dart-function-bahasa.html)
 
-<h3>Belajar Dasar HTML</h3>
+## Belajar Dasar HTML
+* [Pengenalan HTML](https://www.kuskusdev.my.id/2021/10/belajar-dasar-html-pengenalan-html.html)
+* [Belajar Struktur](https://www.kuskusdev.my.id/2021/10/belajar-html-part-2-struktur-html.html)
+* [Belajar Attribute](https://www.kuskusdev.my.id/2021/10/belajar-html-part-3-attribute-html.html)
+* [Belajar Paragraf](https://www.kuskusdev.my.id/2021/10/belajar-html-paragraf-html.html)
+* [Belajar List](https://www.kuskusdev.my.id/2021/10/belajar-html-list.html)
+* [Belajar Gambar](https://www.kuskusdev.my.id/2021/10/belajar-html-gambar.html)
+* [Belajar Tabel](https://www.kuskusdev.my.id/2021/10/belajar-html-tabel.html)
+* [Belajar Link (Anchor Link)](https://www.kuskusdev.my.id/2021/10/belajar-html-belajar-membuat-anchor-link.html)
+* [Belajar Tabel](https://www.kuskusdev.my.id/2021/10/belajar-html-tabel.html)
+* [Belajar Margin Dan Padding](https://www.kuskusdev.my.id/2021/10/belajar-html-belajar-mengenai-padding.html)
+* [Belajar Inline Formating Text](https://www.kuskusdev.my.id/2021/11/belajar-html-belajar-mengenai-inline.html)
+* [Pengenalan CSS](https://www.kuskusdev.my.id/2021/11/belajar-html-belajar-mengenai.html)
+* [Belajar Aturan Penulisan CSS](https://www.kuskusdev.my.id/2021/11/belajar-html-aturan-penulisan-css.html)
+* [Belajar Melampirkan Styling](https://www.kuskusdev.my.id/2021/11/belajar-html-belajar-melampirkan.html)
+* [Belajar Jenis-Jenis Font](https://www.kuskusdev.my.id/2021/11/belajar-html-belajar-jenis-jenis-dan.html)
+* [Belajar Jenis-Jenis Input](https://www.kuskusdev.my.id/2021/11/belajar-html-belajar-mengenai-jenis.html)
 
-<h3>Belajar Dasar PHP</h3>
+## Belajar Dasar PHP
+* [Pengenalan Bahasa Pemrogramman PHP](https://www.kuskusdev.my.id/2021/11/belajar-php-pengenalan-bahasa.html)
+* [Belajar Menulis Komentar Dan Variabel](https://www.kuskusdev.my.id/2021/11/belajar-php-belajar-menganai-variabel.html)
+* [Belajar Type Data](https://www.kuskusdev.my.id/2021/11/belajar-php-belajar-mengenai-jenis-type.html)
+* [Belajar Operator Aritmetika](https://www.kuskusdev.my.id/2021/11/belajar-php-belajar-mengenai-operator.html)
+* [Belajar Macam-Macam Operator](https://www.kuskusdev.my.id/2021/11/belajar-php-belajar-mengenai-macam.html)
+* [Belajar Percabangan If/Else](https://www.kuskusdev.my.id/2021/11/belajar-php-belajar-mengenai.html)
+* [Belajar Switch Case](https://www.kuskusdev.my.id/2021/11/belajar-php-belajar-mengenai_17.html)
+* [Belajar Perulangan While](https://www.kuskusdev.my.id/2021/11/belajar-php-belajar-mengenai-perulangan.html)
+* [Belajar Perulangan For](https://www.kuskusdev.my.id/2021/11/belajar-php-belajar-mengenai-perulangan_19.html)
+* [Belajar Function](https://www.kuskusdev.my.id/2021/11/belajar-php-belajar-mengenai-function.html)
+* [Belajar Array](https://www.kuskusdev.my.id/2021/11/belajar-php-belajar-mengenai-array.html)
+* [Belajar Tanggal Dan Waktu](https://www.kuskusdev.my.id/2021/11/belajar-php-belajar-mengenai-tanggal.html)
+* [Belajar Form Data](https://www.kuskusdev.my.id/2021/11/belajar-php-belajar-penanganan-form-data.html)
+* [Belajar Include Dan Require](https://www.kuskusdev.my.id/2021/11/belajar-php-belajar-mengenai-include.html)
+* [Belajar Perulangan Foreach](https://www.kuskusdev.my.id/2021/11/belajar-php-belajar-mengenai-perulangan_28.html)
+* [Belajar Explode Dan Implode](https://www.kuskusdev.my.id/2021/11/belajar-php-belajar-mengenai-explode.html)
+* [Belajar Base64](https://www.kuskusdev.my.id/2021/11/belajar-php-belajar-membuat-base64.html)
+* [Belajar mkdir dan rmdir](https://www.kuskusdev.my.id/2021/11/belajar-php-belajar-mengenai-mkdir-dan.html)
 
-<h3>Belajar Tentang cryptocurrency</h3>
+## Belajar Tentang cryptocurrency
+* [Cryptocurrency](https://www.kuskusdev.my.id/2021/10/apa-itu-cryptocurrency-untuk-pemula.html)
+* [Istilah-Istilah Cryptocurrency](https://www.kuskusdev.my.id/2021/10/istilah-istilah-dalam-dunia.html)
+* [Bitcoin](https://www.kuskusdev.my.id/2021/10/bitcoin-main-of-coin-crypto.html) 
+* [Altcoin](https://www.kuskusdev.my.id/2021/10/apa-itu-altcoin-kuskusdev.html)
+* [Metaverse](https://www.kuskusdev.my.id/2021/11/apa-itu-metaverse-dunia-virtual-masa.html)
+* [NFT](https://www.kuskusdev.my.id/2021/10/apa-itu-nft-untuk-pemula.html)
 
 
