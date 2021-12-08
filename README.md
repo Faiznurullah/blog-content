@@ -3,6 +3,8 @@
 Repository Ini Berisi Tentang Isi Konten Dari Blog Pribadi Saya, Blog Saya Berisi Tentang Dunia Informasi Dan Teknologi Seperti Dunia Programming Dan Cryptocurrancy, Saya Berkontribusi Di Dunia Open Source Dengan Menulis Artikel-Artikel. Saya Membuat Blog Ini Hanya Untuk Mendokumentasikan Apa Yang Telah Saya Pelajari Agar Dapat Menjadi Sumber Belajar Khususnya Diri Saya Dan Juga Orang Lain.
 
 <h3>Belajar Bahasa Pemrograman Dasar Dart</h3>
+* [Pengenalan Dart](https://www.kuskusdev.my.id/2021/10/pengenalan-bahasa-pemrogramman-dart.html)
+* [Belajar Variabel Dan Komentar](https://www.kuskusdev.my.id/2021/10/belajar-dart-variabel-dan-komentar.html)
 
 <h3>Belajar Dasar HTML</h3>
 
